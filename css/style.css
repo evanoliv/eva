@@ -1,0 +1,476 @@
+/*estrutura geral*/
+
+@media (max-width: 768px) {
+
+	.form-group label{
+		float: none !important;
+	}
+	
+	.help-block{
+		padding-left: 0px !important;
+	}
+	  
+	#roteiro{
+		height: 100% !important;
+	}
+	
+	.formG{
+		width: 100% !important;	
+	}
+
+	.formP{
+		width: 100% !important;	
+	}
+	
+	.formText{
+		width: 100% !important;
+	}
+	
+	.menu-top li a {
+  		margin: 5px 5px 0px 5px !important;
+	}
+}
+
+#header_nav{
+	width: 100%;
+	background-color: #669FD7;
+}
+
+#header{
+	height: 150px;
+	padding: 0px !important;
+}
+
+#footer{
+	position: relative;
+	float: left;
+	height: 30px;
+	width: 100%;
+	background-color: #669FD7;
+	color: white;
+	text-align: right;
+	padding-top: 5px;
+	padding-right: 15px;
+}
+
+#menu-lateral{
+	position: relative;
+	background-color: #669FD7;
+	border-radius: 3px;
+	padding: 0px;
+}
+
+#conteudo{
+	position: relative;
+	padding: 10px;
+}
+
+#roteiro{
+	position: relative;
+	background-color: rgb(198, 247, 198);
+	padding: 10px;
+	border-radius: 4px;
+	height: 78%;
+	overflow: auto;
+	color: #333;
+}
+
+#roteiro h1{
+	background-color: lightgreen;
+	padding: 5px 0px;
+	margin-top: 5px;
+	border-radius: 4px;
+	color: #333;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#roteiro h3{
+	color: #333;
+	font-size: 16px;
+	font-weight: bold;
+}
+	
+h2 {
+	position: relative;
+	float: left;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+.sobre{
+	position: relative;
+	float: left;	
+}
+
+/*header*/
+
+.navbar-toggle{
+	color: white;
+	margin: 12px;
+	
+}
+	
+.active a{
+	background-color: #337ab7 !important;
+	color: white;
+}
+
+.navbar-brand {
+	color: white;
+  	margin: 5px;
+}
+
+.menu-top li a{
+	background-color: #F8F8F8;
+    border-radius: 4px;
+	margin: 5px 5px 0px 0px;	
+}
+
+.sessao-logado {
+	position: relative;
+	float: right;
+	width: auto;
+}
+
+.info_usuario{
+	margin: 5px;
+	margin-right: 10px;
+	font-size: 12px;
+}
+
+.sessao-logado .glyphicon-leaf{
+	position: relative;
+	float: right;
+	margin-right: 5px;
+	top: 15px;	
+	color: darkgreen;
+	padding: 15px;
+	border-radius: 4px;
+	background-color: lightgreen;
+	cursor: pointer;
+}
+
+.sessao-logado .glyphicon-leaf:hover{
+	background-color: green;
+	color: white;
+}
+
+
+/*menu lateral*/
+
+#menu-lateral ul li a{
+	border-radius: 3px;
+	margin: 5px;
+	color: white;	
+	padding: 5px 15px;
+}
+
+#menu-lateral ul li a:hover{
+	color: #23527c;	
+}
+
+#menu-lateral ul li.active a:hover {
+	color: white;	
+}
+
+.submenu{
+	padding-left: 25px;
+}
+
+/*
+.submenu a{
+	background-color: #EEEEEE;
+	color: #337ab7 !important;
+}
+
+.submenu a:hover {
+	background-color: #337ab7 !important;
+	color: white !important;
+}
+*/
+
+/*inicio*/
+
+.tela_inicial{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.botao_inicio a{
+	position: relative;
+	float: left;
+	height: 150px;
+	width: 150px;
+	border-radius: 4px;
+	background-color: #628DB6;
+	margin: 15px;
+	cursor: pointer;
+	color: white;
+	vertical-align: middle;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.botao_inicio a:hover{
+	background-color: #669FD7;	
+}
+
+.quadro-login{
+	width: 400px;
+}
+
+.msg_erro{
+	width: 100%;
+	background-color: #ffe3e3;
+	border: 1px solid #dd0000;
+	border-radius: 4px;
+	padding: 5px;
+	color: #880000;
+	position: relative;
+  	float: left;
+  	display: none;
+}
+
+.msg_sucesso{
+	width: 100%;
+	background-color: #E5FFE3;
+	border: 1px solid #00dd00;
+	border-radius: 4px;
+	padding: 5px;
+	color: #008800;
+	position: relative;
+  	float: left;
+  	display: none;
+}
+
+/* formularios */
+
+.legendaObjeto{
+	position: relative;
+	float: left;	
+}
+
+.form-group label{
+	position: relative;
+	float: left;
+	width: 190px;
+}
+
+.registroId{
+	display: none;
+}
+
+.formG{
+	width: 450px;	
+}
+
+.formP{
+	width: 180px;	
+}
+
+.formText{
+	width: 450px;
+	min-height: 100px;
+	max-width: 450px;
+}
+
+.help-block{
+	padding-left: 190px;
+}
+
+/* formulario objeto */
+
+.fotoObjeto{
+	padding-left: 190px;
+}
+
+.fotoObjeto img{
+	max-width: 550px;
+}
+
+#objetoForm table tr td{
+	vertical-align: top;	
+}
+
+#subtipo_objeto{
+	margin: 5px 0px;	
+}
+
+.filtro{
+  	border-radius: 4px;
+  	border: 1px solid lightgray;
+	width: 100%;
+  	position: relative;
+  	float: left;
+  	margin-bottom: 5px;
+}
+
+.filtro .formP{
+	width: 140px;
+	margin-right: 10px;
+}
+
+.filtro form{
+	background-color: rgb(248, 248, 248);
+	border-radius: 4px;
+  	padding: 10px;
+  	margin-bottom: 0px;
+}
+
+.filtroHeader{
+  	padding: 5px;
+  	border-bottom: 1px solid lightgray;
+  	height: 30px;
+}
+
+.filtroTitulo{
+	position: relative;
+	float: left;	
+}
+
+.filtroContagem{
+	position: relative;
+	float: right;
+	margin-right: 5px;	
+}
+
+.filtro select{
+	height: 26px;
+}
+
+.table{
+	font-size: 14px;	
+}
+
+.table-form-objeto table {
+	font-size: 14px;
+}
+
+.inputCep{
+	height: 35px;	
+}
+
+.inputCep img{
+	margin-left: 7px;
+  	margin-top: 7px;
+  	display: none;	
+}
+
+.formCep{
+	position: relative;
+	float: left;	
+}
+
+/* objetos mapeados */
+
+.objeto_mapeado{
+	border-radius: 4px;
+	border: 1px solid lightblue;
+	padding: 5px;
+	position: relative;
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.objeto_mapeado img{
+	position: relative;
+	float: left;
+	margin-right: 5px;
+	border-radius: 4px;
+	width: 82px;
+}
+
+.objeto_mapeado .info_objeto{
+	margin-left: 87px;
+}	
+
+.resumo_mapeamento{
+	border-radius: 4px;
+	border: 1px solid lightblue;
+	padding: 10px;	
+	margin-bottom: 5px;
+}
+
+/*selecionar eventos*/
+
+.eventoCadastrado {
+	position: relative;
+	float: left;
+	width: 100%;	
+}
+
+.eventoCadastrado h4{
+	position: relative;
+	float: left;
+	margin-right: 15px;
+}
+
+/*iniciacao*/
+
+.addLocal span{
+	padding: 7px 11px;
+	color: #fff;
+  	background-color: #5bc0de;
+  	border-color: #46b8da;
+	border-radius: 4px;
+  	top: 7px;
+  	position: relative;
+  	margin: 5px;
+  	cursor: pointer;
+}
+
+.localAdicionado{
+	height: 2em;	
+}
+
+.localAdicionado a{
+	position: relative; 
+	float: left;	
+}
+
+.removerLocal{
+	margin-left: 5px; 
+	color: red; 
+	cursor: pointer; 
+	position: relative; 
+	float: left;	
+}
+
+/*planejamento*/
+
+.tblApresentacao{
+	margin-top: -21px;	
+}
+
+/*home*/
+
+.subtituloNoticia{
+	font-size: 12px;
+	margin-top: -15px;
+  	margin-bottom: 10px;		
+}
+
+.tblSemLinhas tbody tr td{
+	border-top: 0px !important;
+}
+
+.tblLegend{
+	margin-top: -21px;
+}
+
+.glyphicon-remove{
+	color: red;	
+}
+
+.glyphicon-pencil{
+	color: #5cb85c;	
+}
+
+.glyphicon-search{
+	color: blue;	
+}

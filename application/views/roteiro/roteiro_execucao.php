@@ -1,0 +1,3 @@
+<h1>EXECUÇÃO</h1>
+<p>É chegada a hora mais aguardada, a realização do evento. Se o planejamento foi criterioso e a equipe organizadora trabalhou coesa e com profissionalismo, não há o que temer. Quando o evento é bem estruturado, ainda que aconteçam os temíveis imprevistos, coordenadores e colaboradores sentem-se aptos a lidar com as adversidades e, não raro, surpreendem-se com a habilidade e a maturidade do grupo para propor soluções.</p> 
+<p>Todas as atividades, desde a abertura até o encerramento, devem ser monitoradas pelo coordenador com o auxílio da equipe de apoio.</p>

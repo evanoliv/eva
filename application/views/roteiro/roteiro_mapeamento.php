@@ -1,0 +1,6 @@
+<h1>TERMINOLOGIA</h1>
+<p>Os termos aqui utilizados são os mesmos propostos pelo MinC e de maneira alguma buscam objetificar ou reduzir o trabalho artístico de cada indivíduo. Foi adotada esta convenção para melhor ser identificada por agentes culturais.</p>
+<p><strong>Objeto Cultural:</strong> Objetos Culturais são divididos em Evento (a ser realizado), Produto (atrações que irão participar do evento) e Equipamento (locais onde o evento será realizado).</p>
+<p><strong>Evento: </strong>O evento a ser realizado, integrando todas as informações do sistema. Ex.: Festival de Inverno, Oficina de Teatro, Seminário de Extensão etc.</p>
+<p><strong>Produto: </strong>Refere-se a um Objeto Cultural do tipo Produto Cultural, assemelha-se a uma atração artística. Ex.: Grupo de Danças Brasileiras, Big Band, Coletivo etc.</p>
+<p><strong>Equipamento: </strong>Refere-se a um Objeto Cultural do tipo Equipamento Cultural, assemelha-se a um possível local de realização de eventos. Ex.: Sala de cinema, Teatro, Museu etc.</p>

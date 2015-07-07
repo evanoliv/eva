@@ -1,0 +1,4 @@
+<h1>INICIAÇÃO</h1>
+<p>A fase de iniciação consiste em elaborar um projeto descritivo com os elementos essenciais para guiar a organização e a execução do evento. A elaboração deve ser precedida por um período de reflexão e amadurecimento das ideias, de forma a garantir que as soluções se revelem, na prática, um guia seguro para nortear os trabalhos.</p>
+<p>Antes de dar início a esta fase, é importante verificar dentro de sua instituição se há verdadeiro interesse na realização do evento, se as diversas partes estão dispostas a prosseguirem com a sua produção. Entenda como partes interessadas os realizadores, os apoiadores e os patrocinadores. Todos são de essencial importância para o sucesso do evento.</p>
+<p>Neste momento vale a pena buscar por opiniões especializadas para avaliar a viabilidade do evento, que podem ser: outras unidades dentro da organização, consultores, partes interessadas, associações profissionais e técnicas etc.</p>
